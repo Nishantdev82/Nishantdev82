@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Nishantdev82/Nishantdev82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nishant Singh
 
-Here are some ideas to get you started:
+🎓 BCA Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Python
+- 💻 Interested in Web Development
+- 📚 Learning programming step by step
+- 🎯 My goal is to become a Software Developer
+
+## 🛠️ Skills I'm Learning
+- Python
+- HTML & CSS
+- Git & GitHub
+
+## 📂 My Projects
+- Python Student Details — My beginner Python project.
+
+## 🤝 Thanks for Visiting!
+I'm learning, building, and improving every day.
